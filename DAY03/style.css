@@ -1,0 +1,29 @@
+.box1{
+    background-color: red;
+    display: inline-block;  
+    width:200px;
+    height:200px;  
+
+    float: left;
+}
+.box2{
+    background-color:blue;
+    display: inline-block;
+
+    width:200px;
+    height:200px;  
+
+    float: right;
+}
+.container{
+    display: inline-block;
+
+    border: 3px solid black;
+    padding: 2rem;
+
+    background-color: white;
+    
+    margin: 1rem;
+    width: 400px;
+    height:500px;
+}
